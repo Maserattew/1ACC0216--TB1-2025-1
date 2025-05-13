@@ -23,9 +23,9 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 ## Índice
 1. [Objetivo del proyecto](#objetivo-del-proyecto)  
 2. [Descripción del dataset](#descripción-del-dataset)  
-   2.1 [Variables categóricas](#variables-categóricas)  
-   2.2 [Variables numéricas](#variables-numéricas)  
-   2.3 [Variables de fecha](#variables-de-fecha)  
+   2.1. [Variables categóricas](#variables-categóricas)  
+   2.2. [Variables numéricas](#variables-numéricas)  
+   2.3. [Variables de fecha](#variables-de-fecha)  
 3. [Conclusiones clave](#conclusiones-clave)  
 4. [icencia](#licencia)
 
