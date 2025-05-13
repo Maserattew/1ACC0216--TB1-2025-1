@@ -76,4 +76,4 @@ Incluyen:
 
 ## Licencia
 
-Este proyecto está bajo la licencia [MIT](LICENSE).
+El presente trabajo está publicado bajo la licencia [MIT](LICENSE).
