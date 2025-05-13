@@ -20,7 +20,7 @@ Avalos Sánchez, César Gabriel - U202310307@upc.edu.pe
 Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 
 # Análisis Exploratorio de Datos (EDA): Hotel Booking Demand
-## 🗂Índice
+## Índice
 1. [Objetivo del proyecto](#objetivo-del-proyecto)  
 2. [Descripción del dataset](#descripción-del-dataset)  
    2.1 [Variables categóricas](#variables-categóricas)  
