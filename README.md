@@ -28,3 +28,50 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
    2.3 [Variables de fecha](#variables-de-fecha)  
 3. [Conclusiones clave](#conclusiones-clave)  
 4. [icencia](#licencia)
+
+## 🎯 Objetivo del proyecto
+
+El objetivo de este proyecto es realizar un análisis exploratorio del conjunto de datos *Hotel Booking Demand* para identificar patrones, tendencias y relaciones útiles en las reservas de hotel.
+
+---
+
+## Descripción del dataset
+
+Este dataset contiene información sobre reservas realizadas en dos tipos de hoteles (urbano y de resort) entre 2015 y 2017.
+
+### Variables categóricas
+
+Incluyen datos como:
+- Tipo de hotel
+- Canal de reserva
+- Tipo de habitación
+- País de origen, etc.
+
+### Variables numéricas
+
+Incluyen:
+- Número de adultos y niños
+- Días de estancia
+- Número de reservas canceladas, etc.
+
+### Variables de fecha
+
+Incluyen:
+- Fecha de llegada
+- Año, mes y día
+- Semana del año
+
+---
+
+## Conclusiones clave
+
+- La tasa de cancelación es significativamente mayor en el hotel urbano.
+- La mayoría de las reservas provienen de Portugal y países europeos.
+- Las reservas a través de agencias tienen una mayor probabilidad de cancelarse.
+- Existe una estacionalidad marcada en las reservas.
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia [MIT](LICENSE).
