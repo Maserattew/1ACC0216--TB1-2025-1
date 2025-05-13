@@ -33,6 +33,7 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 
 El objetivo de este proyecto es llevar a cabo un análisis exploratorio de datos (EDA) utilizando un conjunto de datos que recopila información sobre reservas en hoteles de ciudad y resorts. Mediante este análisis, se pretende identificar patrones relevantes, detectar tendencias importantes y examinar posibles relaciones entre las distintas variables incluidas en los datos.
 
+---
 ## Descripción del dataset
 
 Este dataset contiene información sobre reservas realizadas en dos tipos de hoteles (urbano y de resort) entre 2015 y 2017.
