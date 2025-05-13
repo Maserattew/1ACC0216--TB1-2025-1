@@ -31,9 +31,7 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 
 ## Objetivo del proyecto
 
-El objetivo de este proyecto es realizar un análisis exploratorio del conjunto de datos *Hotel Booking Demand* para identificar patrones, tendencias y relaciones útiles en las reservas de hotel.
-
----
+El objetivo de este proyecto es llevar a cabo un análisis exploratorio de datos (EDA) utilizando un conjunto de datos que recopila información sobre reservas en hoteles de ciudad y resorts. Mediante este análisis, se pretende identificar patrones relevantes, detectar tendencias importantes y examinar posibles relaciones entre las distintas variables incluidas en los datos.
 
 ## Descripción del dataset
 
