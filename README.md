@@ -29,7 +29,7 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 3. [Conclusiones clave](#conclusiones-clave)  
 4. [icencia](#licencia)
 
-## 1. Objetivo del proyecto[Objetivo del proyecto]
+## 1. Objetivo del proyecto[Objetivo del proyecto](#objetivo-del-proyecto)
 
 El objetivo de este proyecto es llevar a cabo un análisis exploratorio de datos (EDA) utilizando un conjunto de datos que recopila información sobre reservas en hoteles de ciudad y resorts. Mediante este análisis, se pretende identificar patrones relevantes, detectar tendencias importantes y examinar posibles relaciones entre las distintas variables incluidas en los datos.
 
