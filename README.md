@@ -18,3 +18,13 @@ Fabian Marcelo, Rojas Cuadros - U202218498@upc.edu.pe
 Avalos Sánchez, César Gabriel - U202310307@upc.edu.pe
 
 Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
+
+Análisis Exploratorio de Datos (EDA): Hotel Booking Demand
+Índice
+1. Objetivo del Proyecto
+2. Descripcion del dataset
+   2.1. variables categóricas
+   2.2. variables numéricas
+   2.3. Variables de fecha
+3. Conclusiones clave
+4. Licencia
