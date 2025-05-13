@@ -29,7 +29,7 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 3. [Conclusiones clave](#conclusiones-clave)  
 4. [icencia](#licencia)
 
-## 🎯 Objetivo del proyecto
+## Objetivo del proyecto
 
 El objetivo de este proyecto es realizar un análisis exploratorio del conjunto de datos *Hotel Booking Demand* para identificar patrones, tendencias y relaciones útiles en las reservas de hotel.
 
