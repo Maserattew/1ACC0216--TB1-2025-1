@@ -76,7 +76,7 @@ Estas variables representan medidas cuantitativas relacionadas con la duración 
 
 ---
 
-### 2.3 📆 Variables de fecha
+### 2.3 Variables de fecha
 
 Incluyen información temporal que permite el análisis de tendencias y estacionalidades:
 
