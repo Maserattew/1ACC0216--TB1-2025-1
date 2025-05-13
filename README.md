@@ -64,10 +64,13 @@ Incluyen:
 
 ## 3. Conclusiones clave
 
-- La tasa de cancelación es significativamente mayor en el hotel urbano.
-- La mayoría de las reservas provienen de Portugal y países europeos.
-- Las reservas a través de agencias tienen una mayor probabilidad de cancelarse.
-- Existe una estacionalidad marcada en las reservas.
+- La mayoría de los clientes prefieren el City Hotel, con 53,422 reservas, frente a las 33,522 del Resort Hotel. Por lo que podemos decir que existe una preferencia por los hoteles en ubicaciones urbanas, probablemente por la cercanía a más servicios.
+- De los datos se observa una demanda con sostenido crecimiento en el tiempo, y con esto la evolución del negocio hotelero. Lo que muestra que las estrategias de negocios, ajustes en logística o mejora de la atención, aplicadas por los hoteles están funcionando.
+- Durante los meses de verano(Junio, Julio,Agosto) hay una alta demanda, mientras que invierno y primavera/otoño por otro lado muestran una demanda baja y media respectivamente. Las promociones y estrategias se ajustan a la estación del año.
+- La duración de las estancias varían dependiendo el tipo de hotel, en los resorts son más prolongadas, 4.5 días en promedio, y en city hotel 3 días en promedio.
+- El city hotel atrae mayor cantidad de familias, si bien los resort también las reciben, probablemente en el city hotel las familias encuentran más accesibilidad para viajes cortos, esto se ve en que el city hotel has recibido entre 5000 y 5300 reservas versus resort que recibe entre 3700 y 400 reservas de familias.
+- La alta demanda que se ve en agosto también puede generar cancelaciones en las reservas debido a cambios de planes o sobre reservas.
+- Los canales de distribución influyen en las cancelaciones, se ha notado que canales como Corporate, Direct Y GDS tienen bajas tasas de cancelación mientras que TA/TO y los undefined presentan mayor riesgo.
 
 ---
 
