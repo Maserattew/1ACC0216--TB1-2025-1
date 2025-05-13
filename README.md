@@ -29,16 +29,16 @@ Rivas Pinto, Piero Aldair - U202122405@upc.edu.pe
 3. [Conclusiones clave](#conclusiones-clave)  
 4. [icencia](#licencia)
 
-## Objetivo del proyecto
+## 1. Objetivo del proyecto
 
 El objetivo de este proyecto es llevar a cabo un análisis exploratorio de datos (EDA) utilizando un conjunto de datos que recopila información sobre reservas en hoteles de ciudad y resorts. Mediante este análisis, se pretende identificar patrones relevantes, detectar tendencias importantes y examinar posibles relaciones entre las distintas variables incluidas en los datos.
 
 ---
-## Descripción del dataset
+## 2. Descripción del dataset
 
 El dataset reúne información detallada sobre reservas de hotel, incluyendo datos del cliente, categoría de habitación, fechas de ingreso, duración de la estancia y otros elementos clave de cada transacción. Cada fila corresponde a una reserva individual e incluye múltiples atributos que permiten analizar los factores que afectan la demanda en el sector hotelero.
 
-### Variables categóricas
+### 2.1. Variables categóricas
 
 Incluyen datos como:
 - Tipo de hotel
@@ -46,14 +46,14 @@ Incluyen datos como:
 - Tipo de habitación
 - País de origen, etc.
 
-### Variables numéricas
+### 2.2. Variables numéricas
 
 Incluyen:
 - Número de adultos y niños
 - Días de estancia
 - Número de reservas canceladas, etc.
 
-### Variables de fecha
+### 2.3. Variables de fecha
 
 Incluyen:
 - Fecha de llegada
