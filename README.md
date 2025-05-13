@@ -36,7 +36,7 @@ El objetivo de este proyecto es llevar a cabo un análisis exploratorio de datos
 ---
 ## Descripción del dataset
 
-Este dataset contiene información sobre reservas realizadas en dos tipos de hoteles (urbano y de resort) entre 2015 y 2017.
+El dataset reúne información detallada sobre reservas de hotel, incluyendo datos del cliente, categoría de habitación, fechas de ingreso, duración de la estancia y otros elementos clave de cada transacción. Cada fila corresponde a una reserva individual e incluye múltiples atributos que permiten analizar los factores que afectan la demanda en el sector hotelero.
 
 ### Variables categóricas
 
