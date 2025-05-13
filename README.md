@@ -38,27 +38,49 @@ El objetivo de este proyecto es llevar a cabo un análisis exploratorio de datos
 
 El dataset reúne información detallada sobre reservas de hotel, incluyendo datos del cliente, categoría de habitación, fechas de ingreso, duración de la estancia y otros elementos clave de cada transacción. Cada fila corresponde a una reserva individual e incluye múltiples atributos que permiten analizar los factores que afectan la demanda en el sector hotelero.
 
-### 2.1. Variables categóricas
+## 2.1 🔠 Variables categóricas
 
-Incluyen datos como:
-- Tipo de hotel
-- Canal de reserva
-- Tipo de habitación
-- País de origen, etc.
+Estas variables representan atributos cualitativos, codificados como categorías:
 
-### 2.2. Variables numéricas
+### Información del hotel y la llegada:
+- `hotel`, `arrival_date_year`, `arrival_date_month`
 
-Incluyen:
-- Número de adultos y niños
-- Días de estancia
-- Número de reservas canceladas, etc.
+### Datos de origen y canal de la reserva:
+- `meal`, `country`, `market_segment`, `distribution_channel`
 
-### 2.3. Variables de fecha
+### Características del cliente y la reserva:
+- `is_repeated_guest`, `reserved_room_type`, `assigned_room_type`
 
-Incluyen:
-- Fecha de llegada
-- Año, mes y día
-- Semana del año
+### Método de pago y estado de la reserva:
+- `deposit_type`, `agent`, `company`, `customer_type`, `reservation_status`
+
+---
+
+## 2.2 🔢 Variables numéricas
+
+Estas variables representan medidas cuantitativas relacionadas con la duración de la estancia, la composición de los huéspedes y otros aspectos numéricos de la reserva:
+
+### Fechas y duración de la estancia:
+- `lead_time`, `arrival_date_week_number`, `arrival_date_day_of_month`  
+- `stays_in_weekend_nights`, `stays_in_week_nights`
+
+### Composición del grupo:
+- `adults`, `children`, `babies`
+
+### Historial y cambios de reserva:
+- `previous_cancellations`, `previous_bookings_not_canceled`  
+- `booking_changes`, `days_in_waiting_list`
+
+### Ingresos y solicitudes adicionales:
+- `adr`, `required_car_parking_spaces`, `total_of_special_requests`
+
+---
+
+## 2.3 📆 Variables de fecha
+
+Incluyen información temporal que permite el análisis de tendencias y estacionalidades:
+
+- `reservation_status_date`
 
 ---
 
